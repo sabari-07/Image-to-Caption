@@ -31,7 +31,7 @@ Clone the Repository
 
 bash
 Copy code
-git clone https://github.com/yourusername/image-to-caption-generator.git
+git clone https://github.com/sabari-07/image-to-caption-generator.git
 cd image-to-caption-generator
 Prepare the Data
 
@@ -73,5 +73,5 @@ This project is licensed under the MIT License. See the LICENSE file for details
 Contact
 For any questions or suggestions, please contact:
 
-Your Name
-GitHub Profile
+Sabareesan R
+https://github.com/sabari-07
